@@ -1,0 +1,10 @@
+.project_venv
+.flake8
+
+paintings/
+
+src/labs/images/__pycache__/
+
+MetObjects.csv
+
+data/
