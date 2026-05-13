@@ -222,5 +222,5 @@ def main(file_path: str, chunksize: int):
     plot_categorical_heatmap(metrics_df)
 
 if __name__ == "__main__":
-    main("/Users/krovich/Desktop/6301krovyakovds/data/MetObjects.csv", 20000)
+    main("/Users/krovich/Desktop/6301kroviakovds/data/MetObjects.csv", 20000)
 
